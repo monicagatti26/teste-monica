@@ -8,3 +8,4 @@ mod
 
 Teste gif diff stage
 
+Nova funçao adicionada
